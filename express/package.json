@@ -10,13 +10,13 @@
     "build": "webpack --hide-modules --mode=production"
   },
   "dependencies": {
-    "@google-cloud/datastore": "^1.4.2",
+    "@google-cloud/datastore": "^2.0.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
     "dayjs": "^1.7.5",
     "devtube-commons": "https://github.com/watch-devtube/commons/releases/download/201901071822/devtube-commons-v0.1.0.tgz",
     "express": "^4.16.3",
-    "firebase-admin": "^6.0.0",
+    "firebase-admin": "^7.0.0",
     "lodash": "^4.17.11",
     "lru-cache": "^4.1.1",
     "mustache-express": "^1.2.7"
